@@ -1,0 +1,3 @@
+
+
+7. Copy Odd Lines to Another File: Write a program that reads a file and writes only the odd-numbered lines to a new file. For example, lines 1, 3, 5, etc., should be copied.

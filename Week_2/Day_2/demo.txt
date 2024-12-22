@@ -1,0 +1,6 @@
+This is a demo file.
+Created to know about filehandling in Python.
+I hope I will learn it soon.
+Now the file has more content!My Name is Afaq
+More words are added here. Just to know that Afaq has written the good code.
+The only thing remaining is to see which top 5 words are repeating frequently.
