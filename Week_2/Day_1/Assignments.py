@@ -1,7 +1,7 @@
 #   Day 1
 
 
-# 1) Function to calculate factorial
+# 1) Function to calculate factorial acb
 
 def factorial(number):
     product = 1
